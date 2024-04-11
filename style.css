@@ -1,0 +1,76 @@
+/* Landing Page Styling*/
+.center {
+    text-align: center;
+}
+
+#title {
+    background-color: rgb(255, 62, 62);
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 68px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: bisque;
+    font-weight: bold;
+}
+
+a:link, a:visited {
+    background-color: rgb(255, 62, 62);
+    color: white;
+    padding: 14px 25px;
+    text-decoration: none;
+    display: flexbox;
+}
+
+a:hover, a:active {
+    background-color: red;
+}
+
+#hmpg-links {
+    font-size: 34px;
+    height: fit-content;
+    line-height: 500%;
+    font-family:  Lora, Arial, Helvetica, sans-serif;
+}
+
+.hmpg-background {
+    background-color: hsl(30deg, 87%, 83%);
+}
+
+/* Spaghetti Page Styling */
+
+.spg-img {
+    display: block;
+    margin:auto;
+    width: 725px;
+    padding-top: 15px;
+}
+
+#para {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+}
+
+/* Pizza Page Styling*/
+
+.za-img {
+    display: block;
+    margin: auto;
+    width: 700px;
+    height: 450px;
+    padding-top: 15px;
+}
+
+.alfr-img {
+    display: block;
+    margin: auto;
+    width: 700px;
+    height: 440px;
+    padding-top: 15px;
+}
+
+
+
+
+
+
+
