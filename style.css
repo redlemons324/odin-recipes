@@ -36,6 +36,10 @@ a:hover, a:active {
     background-color: hsl(30deg, 87%, 83%);
 }
 
+ul {
+    list-style-type: none;
+  }
+
 /* Spaghetti Page Styling */
 
 .spg-img {
@@ -50,7 +54,7 @@ a:hover, a:active {
     font-size: 24px;
 }
 
-/* Pizza Page Styling*/
+/* Pizza Page Styling */
 
 .za-img {
     display: block;
@@ -59,6 +63,8 @@ a:hover, a:active {
     height: 450px;
     padding-top: 15px;
 }
+
+/*  Alfredo Page Styling */
 
 .alfr-img {
     display: block;
